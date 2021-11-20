@@ -13,6 +13,7 @@ categories:
 这是该系列的第4篇：[重学编程(4)-创建游戏角色](https://miyoosan.github.io/article/2021/09/01/programming-3/)。
 
 接上篇，今天我们要完成`游戏角色的创建`。
+travis挂了？
 
 
 
